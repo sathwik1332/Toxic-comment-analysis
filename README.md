@@ -1,6 +1,6 @@
 # Toxic Comment Classification - Multi Label - NLP
 
-**Complete Video Tutorial:** https://youtu.be/lbmzacBDOew
+
 
 # Dataset Information
 
